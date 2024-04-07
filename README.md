@@ -1,7 +1,7 @@
 # Scraping-Bots
 
 #### Run the following code if using Colab
-'''python 
+''' 
 !pip install selenium
 !apt-get update
 !apt-get install -y chromium-browser
