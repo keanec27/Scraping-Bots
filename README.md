@@ -14,4 +14,4 @@ options.add_argument('--disable-dve-shm-uage')
 
 driver = webdriver.Chrome(options=options)
 ```
-Now the scripts can be ran directly.
+###### Now the scripts can be run directly.
