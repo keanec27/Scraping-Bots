@@ -15,3 +15,9 @@ options.add_argument('--disable-dve-shm-uage')
 driver = webdriver.Chrome(options=options)
 ```
 ###### Now the scripts can be run directly.
+
+#### If using Jupyter Notebook make sure Selenium is installed if not run 
+
+```python
+pip install selenium
+```
