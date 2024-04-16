@@ -1,4 +1,5 @@
 # Scraping-Bots
+This Repo contains scraping bots for various websites using selenium.
 
 #### Run the following code if using Colab
 ```python
